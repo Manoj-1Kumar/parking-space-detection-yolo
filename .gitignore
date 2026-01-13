@@ -1,20 +1,20 @@
-# Virtual environments
-venv/
+# ---- Virtual environments ----
 yolov8n_env/
+venv/
 
-# Python cache
+# ---- Python cache ----
 __pycache__/
 *.pyc
 
-# YOLO outputs
+# ---- YOLO outputs ----
 runs/
 *.pt
 
-# Datasets & samples
+# ---- Datasets & samples ----
 my_dataset/
 sample_test_img/
 sample_test_vid/
 
-# OS files
+# ---- OS ----
 Thumbs.db
 .DS_Store
