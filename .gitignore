@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+yolov8n_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO outputs
+runs/
+*.pt
+
+# Datasets & samples
+my_dataset/
+sample_test_img/
+sample_test_vid/
+
+# OS files
+Thumbs.db
+.DS_Store
